@@ -1,0 +1,10 @@
+sudo npm install express-generator -g // Instalando express-generator
+sudo express --ejs saboroso // criando o programa saboroso
+npm install mysql2 --save // Dependencia do projeto 
+npm install --save express-session connect-redis // Sessao com nodeJS
+
+
+
+-------------- mysql
+
+DESC tb_reservations; //Descreve os campos da tabela.
